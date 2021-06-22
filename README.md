@@ -9,4 +9,4 @@ If you don't change anything, you will get an environment, that looks like the p
 
 The result can be plotted like this. And yes, i'm sorry for the color choice. :)
 
-![alt text](https://github.com/LentAxis/GridWorld-SARSA-Softmax-policy/blob/main/pic/GridPlot.png?raw=true)
+![alt text](https://github.com/LentAxis/GridWorld-SARSA-Softmax-policy/blob/main/pic/GridPlot.PNG?raw=true)
