@@ -5,4 +5,4 @@ This repository contains a Jupyter Notebook, which uses the GridWorld.py code to
 
 If you don't change anything, you will get an environment, that looks like the picture below. The blue diamond represents the startingpoint. The green one the Goal. The grey sections represent walls and act as termination conditions. That means, if our Agent steps on a wall, he will get a penalty and has to start again.
 
-<img src="pic/Gridworld.png" width="400" align="left"/>
+![alt text](https://github.com/LentAxis/GridWorld-SARSA-Softmax-policy/blob/main/pic/GridWorld.png?raw=true)
